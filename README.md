@@ -1,4 +1,4 @@
-# Chinese indicine cattle pan-genome project scripts and piplines
+# Chinese indicine cattle pan-genome project
 
 This repository contains custom scripts and pipelines to analyse Chinese indicine cattle project. Most of the scripts were specially designed to perform the analyses in the paper ```A Chinese indicine pan-genome reveals a wealth of novel structural variants introgressed from other Bos species```.
 
