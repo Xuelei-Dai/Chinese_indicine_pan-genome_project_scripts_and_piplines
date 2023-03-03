@@ -5,14 +5,14 @@ This repository contains custom scripts and pipelines to analyse Chinese indicin
 ## Contents
 The analysis pipelines and scripts of the five parts of the article are integrated into the following five folders, and each script has detailed code comments.
 
-- assembly and assessment
+- [assembly and assessment](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/01.assembly_and_assessment)
 
-* multi-assembly graph construction
+* [multi-assembly graph construction](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/02.multi-assembly_graph_construction)
 
-* structural variants generating and characterizing
+* [structural variants generating and characterizing](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/03.structural_variants_generating_and_characterizing)
 
-* archaic introgression and_admixture history analysis
+* [archaic introgression and_admixture history analysis](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/04.archaic_introgression_and_admixture_history_analysis)
 
-* structural variants genotyping and adaptive introgression analysis
+* [structural variants genotyping and adaptive introgression analysis](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/05.structural_variants_genotyping_and_adaptive_introgression_analysis)
 
 Here is a brief description of the contents of each directory.
