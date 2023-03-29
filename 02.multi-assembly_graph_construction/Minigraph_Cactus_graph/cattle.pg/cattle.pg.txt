@@ -1,4 +1,0 @@
-(Leiqiong_hap.1:1.0,Leiqiong_hap.2:1.0,ARS:1.0);
-Leiqiong_hap.1  ../data/Leiqiong_hap1.fasta
-Leiqiong_hap.2  ../data/Leiqiong_hap2.fasta
-ARS    ../data/ARS.fa
