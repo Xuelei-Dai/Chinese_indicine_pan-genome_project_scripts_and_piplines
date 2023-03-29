@@ -1,0 +1,2 @@
+#The sample order must be consistent with the sample order in the SNP.vcf file
+paste 18001_1_fdr_middle 18019_2_fdr_middle 18021_3_fdr_middle 19030230_4_fdr_middle A0097_5_fdr_middle B026_6_fdr_middle B070_7_fdr_middle B071_8_fdr_middle B072_9_fdr_middle B073_10_fdr_middle B078_11_fdr_middle B080_12_fdr_middle B081_13_fdr_middle 19034_14_fdr_middle B079_15_fdr_middle B091_16_fdr_middle B103_17_fdr_middle 19043_18_fdr_middle 18050051_19_fdr_middle > ASE_fdr_merge_result
