@@ -16,3 +16,5 @@ The analysis pipelines and scripts of the five parts of the article are integrat
 * [structural variants genotyping and adaptive introgression analysis](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/05.structural_variants_genotyping_and_adaptive_introgression_analysis)
 
 Here is a brief description of the contents of each directory.
+
+In addition, we provided a [testing protocol](https://github.com/Xuelei-Dai/Chinese_indicine_pan-genome_project_scripts_and_piplines/tree/main/02.multi-assembly_graph_construction/Minigraph_Cactus_graph) for pangenome graphs.
