@@ -16,7 +16,7 @@ logging.info(f"The command line is:\n\tpython3 {' '.join(sys.argv)}")
 
 
 @click.command()
-@click.option('-i','--snpfilteredintersect',type=click.File('r'),help='input the ASE2_2_snpReads_snpGenotype_intersect_filtered.result',required=True)
+@click.option('-i','--snpfilteredintersect',type=click.File('r'),help='input the snpReads_snpGenotype_intersect_filtered.result',required=True)
 @click.option('-o','--out',type=click.File('w'),help='output the changed name bed file',required=True)
 
 def main(snpfilteredintersect,out):

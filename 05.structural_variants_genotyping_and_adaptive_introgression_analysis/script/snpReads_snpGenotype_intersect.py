@@ -26,7 +26,7 @@ def LoadSnpgenotype(File1):
     return Header1,Dict1
 
 @click.command()
-@click.option('-g','--snpgenotype',type=click.File('r'),help='input the ase middle file',required=True)
+@click.option('-g','--snpgenotype',type=click.File('r'),help='input the snp file',required=True)
 @click.option('-r','--snpreads',type=click.File('r'),help='input the ase middle file',required=True)
 @click.option('-o','--out',type=click.File('w'),help='output the result file',required=True)
 

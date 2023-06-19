@@ -19,7 +19,7 @@ logging.basicConfig(filename=os.path.basename(__file__).replace('.py','.log'),
 logging.info(f"The command line is:\n\tpython3 {' '.join(sys.argv)}")
 
 @click.command()
-@click.option('-a','--asesnpannotion',type=str,help='input the ASE3_1_getASEsnpAnnotion.result',required=True)
+@click.option('-a','--asesnpannotion',type=str,help='input the getASEsnpAnnotion.result',required=True)
 
 @click.option('-o','--out',type=str,help='output the result file',required=True)
 

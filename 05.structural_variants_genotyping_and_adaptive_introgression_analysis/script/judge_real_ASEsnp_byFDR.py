@@ -16,9 +16,9 @@ logging.info(f"The command line is:\n\tpython3 {' '.join(sys.argv)}")
 
 
 @click.command()
-@click.option('-a','--asesnp',type=click.File('r'),help='input the ASE2_6_judge_ASEsnp.result',required=True)
+@click.option('-a','--asesnp',type=click.File('r'),help='input the judge_ASEsnp.result',required=True)
 @click.option('-f','--fdr',type=click.File('r'),help='input the fdr file',required=True)
-@click.option('-o','--out',type=click.File('w'),help='output the changed name bed file',required=True)
+@click.option('-o','--out',type=click.File('w'),help='output file',required=True)
 
 def main(asesnp,fdr,out):
     for i,j in zip(asesnp,fdr):
